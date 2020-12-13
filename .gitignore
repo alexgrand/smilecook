@@ -1,0 +1,11 @@
+# virtual environment
+venv/
+
+# VSCode settings
+.vscode/
+
+# python cache
+*.pyc
+
+# database
+*.sql
